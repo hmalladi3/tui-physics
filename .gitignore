@@ -1,0 +1,14 @@
+# Build artifacts
+/physics
+/test/runner
+*.o
+*.a
+*.dSYM/
+compile_commands.json
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
